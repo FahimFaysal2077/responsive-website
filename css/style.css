@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#bebas-neue{
+    font-family: 'Bebas Neue', cursive;
+}
+#roboto{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color:;
+}
+.body-header{
+    background-color: rgb(255, 251, 240, 100%);
+    border-radius: 1em;
+}
+
+/* >>>>BE THE PENGUINS  "text color" */
+.text-color-1{
+    color: rgb(250, 190, 76, 100%);
+}
+
+/* >>>>OF WINTER    "text color" */
+.text-color-2{
+    color: rgb(54, 57, 88, 100%);
+}
+
+/* >>>>LOREM HEADING    "text color" */
+.text-color-3{
+    color: rgb(62, 62, 62, 100%);
+}
+
+
+/* >>>>BUTTONS  "background colors" */
+.btn-bg-color{
+    background-color: rgb(164, 188, 70, 100%);
+}
+.card__img{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    object-position: center;
+    background-color: rgb(241, 241, 241, 100%);
+    border-radius: 20px;
+}
+.jacket-card{
+    border: none;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 20px;
+}
+.jacket-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.big-photo{
+    border: none;
+    margin-top: 150px;
+}
+.shopping-card{
+    border: none;
+    border-radius:20px;
+    width: 80%;
+}
+.bg-color{
+    background-color: rgba(93,105,233,1);
+}
+#color-1{
+    color: black;
+}
+#color-2{
+    color:cornsilk;
+}
+.btn-color{
+    background-color: tomato;
+    color: white;
+}
+#subscribe{
+    border: none;
+    border-radius: 20px;
+}
